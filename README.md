@@ -1,4 +1,9 @@
 ### Hi there 👋
+Nice to meet you I'm a Mobile developer focusing on Flutter and Android native development.
+With 2 and half years experience on real production.
+- I have hands Provider, Getx and RiverPod on Flutter State management.
+- I'm currently working on Camera, QR code detection and Bluetooth connect in Flutter.
+- I'm also working on Compose, KOIN and camera on Android native with Kotlin.
 
 <!--
 **wipu25/wipu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
