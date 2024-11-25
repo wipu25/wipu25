@@ -1,13 +1,13 @@
 ### Hi there 👋
 Nice to meet you! I’m a mobile developer with a focus on Flutter and Android native (Kotlin) development, bringing over 3.5 years of practical experience in real-world production environments. I’m passionate about learning and implementing new technologies.
 
-Flutter
+### Flutter
 Provider, GetX, RiverPod, Unit Test, Firebase, Dio, Http
 
-Kotlin
+### Kotlin
 JetPack Compose, XML, KOIN, Hilt+Dagger, Live Date, Flow, Retrofit, OkHttp
 
-CI/CD
+### CI/CD
 Github Action, Code Magic, FastLane
 
 🌱 I’m currently learning backend serverless development with Nest.js and integrating AWS.
