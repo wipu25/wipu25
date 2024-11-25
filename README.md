@@ -1,17 +1,22 @@
 ### Hi there 👋
-Nice to meet you I'm a Mobile developer focusing on Flutter and Android native development.
-With 2 and half years experience on real production.
+Nice to meet you! I’m a mobile developer with a focus on Flutter and Android native development, bringing over 3.5 years of practical experience in real-world production environments. I’m passionate about learning and implementing new technologies.
 
 Flutter
-- Hands on Provider, Getx and RiverPod on Flutter State management. (MVC)
-- Have release app to playstore and app store in real production with Github Action and code magic.
-- Testing application with Unit test and Widget test.
-- Currently working on Camera, QR code detection and Bluetooth connect in Flutter.
+1. Expertise in using Provider, Getx, and RiverPod for state management (MVC).
+2. Published apps to the Play Store and App Store using CodeMagic.
+3. Set up CI/CD pipelines with GitHub Actions.
+4. Conducted unit and widget testing for application stability.
+5. Worked with camera functionalities, QR code detection, and Bluetooth connectivity in Flutter.
+6. Integrated Firebase Analytics, Storage, Crashlytics, and Authentication.
+7. Built applications for both B2B and B2C markets.
 
 Kotlin
-- Experience on Compose, KOIN and camera on Android native with Kotlin.
-- Using MVVM pattern.
+1. Experience with Jetpack Compose and XML for UI design.
+2. Used KOIN and Hilt+Dagger for dependency injection.
+3. Hands-on with Camera2/CameraX APIs.
+4. Familiar with LiveData and Flow for state management.
 
+🌱 I’m currently learning backend serverless development with Nest.js and integrating AWS.
 <!--
 **wipu25/wipu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
